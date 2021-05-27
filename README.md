@@ -1,1 +1,1 @@
-# Exquisite-corpse.t
+# exercise-exquisite-corpse
